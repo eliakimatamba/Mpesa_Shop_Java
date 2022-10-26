@@ -78,5 +78,3 @@ request.setPhoneNumber("+254711123456");
 
 CreateCustomerResponse response = mpesaClient.createCustomer(request);
 ```
-
-For more information on how to use the SDK, please see the full documentation.
